@@ -26,13 +26,15 @@ This is a Flutter project demonstrating user **Sign Up and Login** using **Fireb
 
 ### 📸 Screenshots
 
-#### 🔐  Screens
-![Login Screen](1.png)
-![Signup Screen](2.png)  
-![Signup Screen - Step 2](3.png)  
-![Signup Screen - Step 3](4.png)  
-![Signup Screen - Step 4](6.png)  
-![Signup Screen - Step 5](7.png)  
-![Signup Screen - Step 6](8.png)  
-![Signup Screen - Final](10.png)
+#### 🔐 Login Screen
+<img src="1.png" alt="Login Screen" width="300"/>
+
+#### 🆕 Sign Up Screens
+<img src="2.png" alt="Signup Screen 1" width="300"/>
+<img src="3.png" alt="Signup Screen 2" width="300"/>
+<img src="4.png" alt="Signup Screen 3" width="300"/>
+<img src="6.png" alt="Signup Screen 4" width="300"/>
+<img src="7.png" alt="Signup Screen 5" width="300"/>
+<img src="8.png" alt="Signup Screen 6" width="300"/>
+<img src="10.png" alt="Signup Screen Final" width="300"/>
 
